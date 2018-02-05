@@ -1,0 +1,7 @@
+.DS_Store
+.DS_Store?
+.git
+.sass-cache/
+.vim
+bourbon/
+node_modules/
